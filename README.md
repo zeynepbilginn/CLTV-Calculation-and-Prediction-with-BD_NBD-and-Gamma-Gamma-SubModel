@@ -1,37 +1,5 @@
 # CLTV_Calculation_and_Prediction
 
-## Business Problem
-
-**1.** Verinin Hazırlanması (Data Preperation)  
-**2.** BG-NBD Modeli ile Expected Number of Transaction  
-**3.** Gamma-Gamma Modeli ile Expected Average Profit  
-**4.** BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması  
-**5.** CLTV'ye Göre Segmentlerin Oluşturulması
-**6.** Çalışmanın fonksiyonlaştırılması
-
-## Introduction
-- E-ticaret şirketinin müşterilerini segmentlere ayırma ve pazarlama stratejileri belirleme isteği.  
-
-## Data Set Story
-- Online Retail II veri seti  
-- İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
-
-## Variables
-• **InvoiceNo:** Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
-• **StockCode:** Product code. A unique number for each product.  
-• **Description:** Product name.  
-• **Quantity:** The number of units sold. It indicates how many of each product were sold in the invoices.  
-• **InvoiceDate:** The date and time of the invoice.  
-• **UnitPrice:** The price of the product (in pounds sterling).  
-• **CustomerID:** Unique customer number.  
-• **Country:** The name of the country. The country where the customer lives.  
-
-## Analysis
-- Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
-- Segmentlere özel pazarlama stratejilerinin belirlenmesi  
-- Müşteri memnuniyetinin artırılması  
-- Satışların ve karlılığın artması  
-This project employs the BG-NBD and Gamma-Gamma models to analyze customer purchase behaviors and predict Customer Lifetime Value (CLTV). This analysis helps businesses optimize their marketing strategies and manage customer relationships more effectively.
 
 ## BG-NBD Model  <br>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek" alt="alternatif metin" width="650" height=auto>
@@ -65,3 +33,36 @@ The combination of the BG-NBD and Gamma-Gamma models provides a comprehensive me
 - **Risk Management:** Identifies high-value customers, allowing the business to allocate its resources more effectively.<br>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*hrkhT7HayIrtM0fUHLlLlA.jpeg" alt="alternatif metin" width="700" height=auto>
 
+
+## Business Problem
+
+**1.** Verinin Hazırlanması (Data Preperation)  
+**2.** BG-NBD Modeli ile Expected Number of Transaction  
+**3.** Gamma-Gamma Modeli ile Expected Average Profit  
+**4.** BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması  
+**5.** CLTV'ye Göre Segmentlerin Oluşturulması
+**6.** Çalışmanın fonksiyonlaştırılması
+
+## Introduction
+- E-ticaret şirketinin müşterilerini segmentlere ayırma ve pazarlama stratejileri belirleme isteği.  
+
+## Data Set Story
+- Online Retail II veri seti  
+- İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
+
+## Variables
+• **InvoiceNo:** Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
+• **StockCode:** Product code. A unique number for each product.  
+• **Description:** Product name.  
+• **Quantity:** The number of units sold. It indicates how many of each product were sold in the invoices.  
+• **InvoiceDate:** The date and time of the invoice.  
+• **UnitPrice:** The price of the product (in pounds sterling).  
+• **CustomerID:** Unique customer number.  
+• **Country:** The name of the country. The country where the customer lives.  
+
+## Analysis
+- Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
+- Segmentlere özel pazarlama stratejilerinin belirlenmesi  
+- Müşteri memnuniyetinin artırılması  
+- Satışların ve karlılığın artması  
+This project employs the BG-NBD and Gamma-Gamma models to analyze customer purchase behaviors and predict Customer Lifetime Value (CLTV). This analysis helps businesses optimize their marketing strategies and manage customer relationships more effectively.
