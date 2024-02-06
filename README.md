@@ -1,6 +1,6 @@
 # CLTV_Calculation_and_Prediction
 
-# Business Problem
+## Business Problem
 
 **1.** Verinin Hazırlanması (Data Preperation)  
 **2.** BG-NBD Modeli ile Expected Number of Transaction  
