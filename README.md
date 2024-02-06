@@ -1,5 +1,4 @@
 # CLTV_Calculation_and_Prediction
-# Project Name: CLTV Prediction with BG-NBD and Gamma-Gamma Models
 
 This project employs the BG-NBD and Gamma-Gamma models to analyze customer purchase behaviors and predict Customer Lifetime Value (CLTV). This analysis helps businesses optimize their marketing strategies and manage customer relationships more effectively.
 
@@ -14,7 +13,7 @@ The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method use
 - **Churn Analysis:** Assesses whether customers will cease interactions with the brand.
 
 ## Gamma-Gamma Submodel <br>
-![alternatif metin](https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek)
+![alternatif metin](https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png)
 
 The Gamma-Gamma model is used to predict the monetary value of a customer's future purchases. This model analyzes the relationship between purchase frequency and the amount of money a customer spends.
 
@@ -36,12 +35,12 @@ The combination of the BG-NBD and Gamma-Gamma models provides a comprehensive me
 
 # Business Problem
 
-1. Verinin Hazırlanması (Data Preperation)  
-2. BG-NBD Modeli ile Expected Number of Transaction  
-3. Gamma-Gamma Modeli ile Expected Average Profit  
-4. BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması  
-5. CLTV'ye Göre Segmentlerin Oluşturulması
-6. Çalışmanın fonksiyonlaştırılması
+**1.** Verinin Hazırlanması (Data Preperation)  
+**2.** BG-NBD Modeli ile Expected Number of Transaction  
+**3.** Gamma-Gamma Modeli ile Expected Average Profit  
+**4.** BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması  
+**5.** CLTV'ye Göre Segmentlerin Oluşturulması
+**6.** Çalışmanın fonksiyonlaştırılması
 
 ## Introduction
 - E-ticaret şirketinin müşterilerini segmentlere ayırma ve pazarlama stratejileri belirleme isteği.  
@@ -51,14 +50,14 @@ The combination of the BG-NBD and Gamma-Gamma models provides a comprehensive me
 - İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
 
 ## Variables
-• InvoiceNo: Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
-• StockCode: Product code. A unique number for each product.  
-• Description: Product name.  
-• Quantity: The number of units sold. It indicates how many of each product were sold in the invoices.  
-• InvoiceDate: The date and time of the invoice.  
-• UnitPrice: The price of the product (in pounds sterling).  
-• CustomerID: Unique customer number.  
-• Country: The name of the country. The country where the customer lives.  
+• **InvoiceNo:** Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
+• **StockCode:** Product code. A unique number for each product.  
+• **Description:** Product name.  
+• **Quantity:** The number of units sold. It indicates how many of each product were sold in the invoices.  
+• **InvoiceDate:** The date and time of the invoice.  
+• **UnitPrice:** The price of the product (in pounds sterling).  
+• **CustomerID:** Unique customer number.  
+• **Country:** The name of the country. The country where the customer lives.  
 
 ## Analysis
 - Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
