@@ -32,7 +32,7 @@ The combination of the BG-NBD and Gamma-Gamma models provides a comprehensive me
 - **Comprehensive Analysis of Customer Value:** Helps understand the long-term value of customers to the business.  
 - **Optimization of Marketing Strategies:** Provides data for developing customized marketing campaigns based on customer segments.  
 - **Risk Management:** Identifies high-value customers, allowing the business to allocate its resources more effectively.<br>
-<img src="https://assets-global.website-files.com/5ef27cb65411b70949a151e9/5fc098d7f7b16d5ed93e972a_CLTV1.04.png" alt="alternatif metin" width="600" height=auto>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*hrkhT7HayIrtM0fUHLlLlA.jpeg" alt="alternatif metin" width="700" height=auto>
 
 # Business Problem
 
