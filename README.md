@@ -14,7 +14,7 @@ The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method use
 
 ## Gamma-Gamma Submodel <br>
 
-<img src="[resmin_url_adresi](https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png)" alt="alternatif metin" width="600" height=auto>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png" alt="alternatif metin" width="600" height=auto>
 
 The Gamma-Gamma model is used to predict the monetary value of a customer's future purchases. This model analyzes the relationship between purchase frequency and the amount of money a customer spends.
 
