@@ -3,7 +3,7 @@
 This project employs the BG-NBD and Gamma-Gamma models to analyze customer purchase behaviors and predict Customer Lifetime Value (CLTV). This analysis helps businesses optimize their marketing strategies and manage customer relationships more effectively.
 
 ## BG-NBD Model  <br>
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek" alt="alternatif metin" width="600" height=auto>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek" alt="alternatif metin" width="650" height=auto>
 
 The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method used to predict the number of future purchases a customer will make. The model addresses how customer purchase behavior changes over time and the likelihood of customer churn.
 
@@ -13,9 +13,9 @@ The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method use
 - **Churn Analysis:** Assesses whether customers will cease interactions with the brand.
 
 ## Gamma-Gamma Submodel <br>
-
+<div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png" alt="alternatif metin" width="600" height=auto>
-
+</div>
 The Gamma-Gamma model is used to predict the monetary value of a customer's future purchases. This model analyzes the relationship between purchase frequency and the amount of money a customer spends.
 
 ### Features of the Gamma-Gamma Model
