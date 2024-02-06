@@ -3,7 +3,7 @@
 This project employs the BG-NBD and Gamma-Gamma models to analyze customer purchase behaviors and predict Customer Lifetime Value (CLTV). This analysis helps businesses optimize their marketing strategies and manage customer relationships more effectively.
 
 ## BG-NBD Model  <br>
-![alternatif metin](https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek)
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*YUvxLkMUNx2jOIek" alt="alternatif metin" width="600" height=auto>
 
 The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method used to predict the number of future purchases a customer will make. The model addresses how customer purchase behavior changes over time and the likelihood of customer churn.
 
@@ -13,7 +13,8 @@ The BG-NBD (Beta-Geometric/Negative Binomial Distribution) model is a method use
 - **Churn Analysis:** Assesses whether customers will cease interactions with the brand.
 
 ## Gamma-Gamma Submodel <br>
-![alternatif metin](https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png)
+
+<img src="[resmin_url_adresi](https://miro.medium.com/v2/resize:fit:1400/1*ERgwQVrKQDl34Oq0STzTSA.png)" alt="alternatif metin" width="600" height=auto>
 
 The Gamma-Gamma model is used to predict the monetary value of a customer's future purchases. This model analyzes the relationship between purchase frequency and the amount of money a customer spends.
 
@@ -31,7 +32,7 @@ The combination of the BG-NBD and Gamma-Gamma models provides a comprehensive me
 - **Comprehensive Analysis of Customer Value:** Helps understand the long-term value of customers to the business.  
 - **Optimization of Marketing Strategies:** Provides data for developing customized marketing campaigns based on customer segments.  
 - **Risk Management:** Identifies high-value customers, allowing the business to allocate its resources more effectively.<br>
-- ![alternatif metin](https://miro.medium.com/v2/resize:fit:1400/1*hrkhT7HayIrtM0fUHLlLlA.jpeg)
+<img src="https://assets-global.website-files.com/5ef27cb65411b70949a151e9/5fc098d7f7b16d5ed93e972a_CLTV1.04.png" alt="alternatif metin" width="600" height=auto>
 
 # Business Problem
 
